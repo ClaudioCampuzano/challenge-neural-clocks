@@ -22,8 +22,7 @@ module.exports = {
           95: 'hsl(236, 14%, 95%)'
         },
         white: '#ffffff',
-        green: 'hsl(176, 84%, 45%)',
-        blue: 'hsl(230, 84%, 80%)'
+        green: 'hsl(176, 84%, 45%)'
       },
     },
   },
